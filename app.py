@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import joblib
-import scikit-learn
+import sklearn
 
 # Set konfigurasi halaman agar terlihat profesional
 st.set_page_config(
